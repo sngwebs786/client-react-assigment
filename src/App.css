@@ -1,0 +1,19 @@
+button{
+  border: 1px solid black;
+  width: 30px;
+  background-color: rgb(224, 224, 224) !important;
+}
+
+.header{
+  background-color: rgb(37, 37, 37);
+  color: white;
+  height: 80px;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.inline-div{
+  display: flex;
+  flex-direction: row;
+}
